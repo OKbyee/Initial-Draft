@@ -1,2 +1,3 @@
 # Project 1
-#Learning of basic entities
+
+Learning of basic entities
